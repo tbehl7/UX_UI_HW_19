@@ -52,7 +52,7 @@ $(document).ready(function() {
     ScrollReveal().reveal('.heading-row', { delay: 200 });
     ScrollReveal().reveal('.processList', { delay: 200 });
     ScrollReveal().reveal('.numbertext', { delay: 500 });
-    ScrollReveal().reveal('.description-row', { delay: 200 });
+    ScrollReveal().reveal('.description-row', { delay: 500 });
     ScrollReveal().reveal('.processCallout', { delay: 500 });
     ScrollReveal().reveal('.Footer_outer', { delay: 500 });
     ScrollReveal().reveal('.Footer_outer', { delay: 500 });
